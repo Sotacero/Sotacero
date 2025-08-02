@@ -115,12 +115,10 @@
 ### *> Terminal Hammond - Acceso Autorizado <*
 
 <pre>
-┌─────────────────────────────────────┐
-│ SISTEMA:           ✅ Operativo     │
-│ COMUNICACIONES:    ✅ Estables      │  
-│ CERCAS ELÉCTRICAS: ✅ Funcionando   │
-│ NIVEL DE AMENAZA:  🟢 Controlado    │
-└─────────────────────────────────────┘
+> SISTEMA:           [✅] Operativo
+> COMUNICACIONES:    [✅] Estables  
+> CERCAS ELÉCTRICAS: [✅] Funcionando
+> NIVEL DE AMENAZA:  [🟢] Controlado
 </pre>
 
 ---
