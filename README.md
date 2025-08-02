@@ -1,10 +1,3 @@
-<br>
-
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/d8/8f/42/d88f42a1e406ae614458d3f8fe207006.gif" width="400" alt="T-Rex Rugiendo"/>
   
@@ -165,3 +158,10 @@
 **Pista:** La palabra mágica rima con "por favor" 😉
 
 </details>
+
+<br>
+
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
