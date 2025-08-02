@@ -53,12 +53,14 @@
 ![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-FF6B35?style=for-the-badge&logo=security&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Análisis%20de%20Vulnerabilidades-DC143C?style=for-the-badge&logo=shield&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-8B0000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=magnifying-glass&logoColor=white)
 
 ### Herramientas de Campo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Laboratorio de Datos (Bases de Datos)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
