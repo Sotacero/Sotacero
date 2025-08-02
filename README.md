@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/d8/8f/42/d88f42a1e406ae614458d3f8fe207006.gif" width="400" alt="T-Rex Rugiendo"/>
   
-  <h1>¡Bienvenido a Sotacero Park!</h1>
 </div>
 
 <div align="center">
