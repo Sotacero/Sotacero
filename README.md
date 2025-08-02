@@ -35,7 +35,6 @@
   
 </div>
 
----
 
 ## 🦕 Arsenal Tecnológico
 
@@ -62,7 +61,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
----
+
 
 ## 🦴 Filosofía del Parque
 
