@@ -115,9 +115,9 @@
 ### *> Terminal Hammond - Acceso Autorizado <*
 
 <pre>
-SISTEMA:           ✅ Operativo
+SISTEMA:          ✅ Operativo
 COMUNICACIONES:    ✅ Estables  
-CERCAS ELÉCTRICAS: ✅ Funcionando
+CERCAS ELÉCTRICAS:  ✅ Funcionando
 NIVEL DE AMENAZA:  🟢 Controlado
 </pre>
 
