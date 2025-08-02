@@ -52,7 +52,7 @@
 ### Sistemas de Seguridad
 ![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-FF6B35?style=for-the-badge&logo=security&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Análisis%20de%20Vulnerabilidades-DC143C?style=for-the-badge&logo=shield&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-8B0000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-4B0082?style=for-the-badge&logo=security&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=magnifying-glass&logoColor=white)
 
 ### Herramientas de Campo
