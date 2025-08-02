@@ -21,7 +21,7 @@
 
 ---
 
-## 🧬 Expediciones Científicas (Repositorios Destacados)
+## 🧬 Expediciones Científicas
 
 <div align="center">
   
@@ -154,8 +154,6 @@
 
 <div align="center">
   
-### 🦕 "¡Los dinosaurios han vuelto, pero esta vez con código!"
-
 *Creado con ❤️ y mucho café por Sotacero*  
 *© 2025 Sotacero Park - Todos los derechos reservados*
 
