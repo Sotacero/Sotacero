@@ -110,11 +110,12 @@
 > *"Sí, sí, pero tu equipo de científicos estaba tan preocupado por si podían o no que no se detuvieron a pensar si debían."*  
 > **- Dr. Ian Malcolm**
 
-###  Protocolo de Seguridad Activo
-**Sistema InGen:** ✅ Operativo  
-**Cercas Eléctricas:** ✅ Funcionando  
-**Comunicaciones:** ✅ Estables  
-**Nivel de Amenaza:** 🟢 Controlado
+### *> Terminal Hammond - Acceso Autorizado <*
+
+**SISTEMA:** ✅ Operativo  
+**COMUNICACIONES:** ✅ Estables  
+**CERCAS ELÉCTRICAS:** ✅ Funcionando  
+**NIVEL DE AMENAZA:** 🟢 Controlado
 
 </div>
 
