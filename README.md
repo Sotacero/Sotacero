@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Explorador+Digital+%F0%9F%92%BB;Especialista+en+Ciberseguridad+%F0%9F%94%92;Investigador+de+Vulnerabilidades+%F0%9F%94%8D;%22La+vida+siempre+se+abre+camino%22)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Explorador+Digital+%F0%9F%92%BB;Especialista+en+Ciberseguridad+%F0%9F%94%92;%22La+vida+siempre+se+abre+camino%22)](https://git.io/typing-svg)
   
 </div>
 
@@ -56,8 +56,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 </div>
+
+### 🦴 Laboratorio de Datos (Bases de Datos)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
