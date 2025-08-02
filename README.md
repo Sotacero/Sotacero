@@ -72,16 +72,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
 
-
-## Filosofía del Parque
-
-<div align="center">
-  
-> *"El caos no es un pozo. El caos es una escalera."*  
-> **- Especialista en Seguridad Digital**
-
-</div>
-
 <table align="center">
 <tr>
 <td align="center" width="300">
