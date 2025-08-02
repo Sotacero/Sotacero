@@ -5,6 +5,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d8/8f/42/d88f42a1e406ae614458d3f8fe207006.gif" width="400" alt="T-Rex Rugiendo"/>
+  
+  <h1>¡Bienvenido a Sotacero Park!</h1>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SOTACERO%20PARK&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Sistema%20de%20Seguridad%20Digital%20Activado&descAlignY=75&descAlign=62" width="100%"/>
 </div>
