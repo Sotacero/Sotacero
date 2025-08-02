@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Explorador+Digital+%F0%9F%92%BB;Especialista+en+Ciberseguridad+%F0%9F%94%92;%22La+vida+siempre+se+abre+camino%22)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Explorador+Digital;Especialista+en+Ciberseguridad;%22La+vida+siempre+se+abre+camino%22)](https://git.io/typing-svg)
   
 </div>
 
