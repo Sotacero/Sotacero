@@ -1,10 +1,7 @@
 # 🦖Sotacero
 <br>
-
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SOTACERO%20PARK&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Sistema%20de%20Seguridad%20Digital%20Activado&descAlignY=75&descAlign=62" width="100%"/>
