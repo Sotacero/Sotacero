@@ -1,4 +1,3 @@
-# 🦖Sotacero
 <br>
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
@@ -23,7 +22,7 @@
 
 ---
 
-## 📊 Estado Actual del Parque
+## Estado Actual del Parque
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sotacero&show_icons=true&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&icon_color=F85D03&text_color=FFF&border_radius=10" height="150"/>
@@ -32,7 +31,7 @@
 
 ---
 
-## 🧬 Expediciones Científicas
+## Expediciones Científicas
 
 <div align="center">
   
@@ -47,34 +46,34 @@
 </div>
 
 
-## 🦕 Arsenal Tecnológico
+## Arsenal Tecnológico
 
 <div align="center">
 
-### 🔬 Laboratorio Principal
+### Laboratorio Principal
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔒 Sistemas de Seguridad
+### Sistemas de Seguridad
 ![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-FF6B35?style=for-the-badge&logo=security&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Análisis%20de%20Vulnerabilidades-DC143C?style=for-the-badge&logo=shield&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-8B0000?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-### 🛠️ Herramientas de Campo
+### Herramientas de Campo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-### 🦴 Laboratorio de Datos (Bases de Datos)
+### Laboratorio de Datos (Bases de Datos)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
 
 
-## 🦴 Filosofía del Parque
+## Filosofía del Parque
 
 <div align="center">
   
@@ -87,19 +86,19 @@
 <tr>
 <td align="center" width="300">
 
-**🔍 Investigación**  
+** Investigación**  
 *Cada vulnerabilidad es una nueva especie por descubrir*
 
 </td>
 <td align="center" width="300">
 
-**🛡️ Protección**  
+** Protección**  
 *La seguridad nunca debe subestimarse*
 
 </td>
 <td align="center" width="300">
 
-**🤝 Colaboración**  
+** Colaboración**  
 *El código abierto es nuestro ADN*
 
 </td>
@@ -108,7 +107,7 @@
 
 ---
 
-## 🌋 Actividad Reciente en el Volcán
+## Actividad Reciente en el Volcán
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sotacero&bg_color=0D1117&color=F85D03&line=F85D03&point=FFFFFF&area=true&hide_border=true&theme=react-dark" width="100%"/>
@@ -116,17 +115,17 @@
 
 ---
 
-## 📡 Centro de Control
+## Centro de Control
 
 <div align="center">
 
-### 🎯 Misión Actual
-- 🔬 Investigando nuevas vulnerabilidades en sistemas web
-- 🛠️ Desarrollando herramientas de automatización
-- 📚 Documentando descubrimientos para la comunidad
-- 🦖 Manteniendo la seguridad del parque
+###  Misión Actual
+-  Investigando nuevas vulnerabilidades en sistemas web
+-  Desarrollando herramientas de automatización
+-  Documentando descubrimientos para la comunidad
+-  Manteniendo la seguridad del parque
 
-### 📊 Métricas del Sistema
+###  Métricas del Sistema
 ![Profile Views](https://komarev.com/ghpvc/?username=sotacero&label=Visitantes%20del%20Parque&color=F85D03&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/sotacero?label=Exploradores&style=for-the-badge&color=F85D03)
 
@@ -134,7 +133,7 @@
 
 ---
 
-## 🚁 Zona de Evacuación (Contacto)
+##  Zona de Evacuación (Contacto)
 
 <div align="center">
   
@@ -146,7 +145,7 @@
 
 ---
 
-## ⚠️ Advertencia del Dr. Malcolm
+##  Advertencia del Dr. Malcolm
 
 <div align="center">
   
@@ -155,7 +154,7 @@
 > *"Sí, sí, pero tu equipo de científicos estaba tan preocupado por si podían o no que no se detuvieron a pensar si debían."*  
 > **- Dr. Ian Malcolm**
 
-### 🎯 Protocolo de Seguridad Activo
+###  Protocolo de Seguridad Activo
 **Sistema InGen:** ✅ Operativo  
 **Cercas Eléctricas:** ✅ Funcionando  
 **Comunicaciones:** ✅ Estables  
