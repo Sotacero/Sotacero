@@ -114,12 +114,12 @@
 
 ### *> Terminal Hammond - Acceso Autorizado <*
 
-**SISTEMA: ✅ Operativo  
-**COMUNICACIONES: ✅ Estables  
-**CERCAS ELÉCTRICAS: ✅ Funcionando  
-**NIVEL DE AMENAZA: 🟢 Controlado
-
-</div>
+<pre>
+SISTEMA:           ✅ Operativo
+COMUNICACIONES:    ✅ Estables  
+CERCAS ELÉCTRICAS: ✅ Funcionando
+NIVEL DE AMENAZA:  🟢 Controlado
+</pre>
 
 ---
 
