@@ -81,10 +81,10 @@
 <div align="center">
 
 ###  Misión Actual
-- Investigando nuevas vulnerabilidades en sistemas web
-- Desarrollando herramientas de automatización
-- Documentando descubrimientos para la comunidad
-- Manteniendo la seguridad del parque
+Investigando nuevas vulnerabilidades en sistemas web
+Desarrollando herramientas de automatización
+Documentando descubrimientos para la comunidad
+Manteniendo la seguridad del parque
 
 ###  Métricas del Sistema
 ![Profile Views](https://komarev.com/ghpvc/?username=sotacero&label=Visitantes%20del%20Parque&color=F85D03&style=for-the-badge)
