@@ -72,28 +72,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="300">
-
-** Investigación**  
-*Cada vulnerabilidad es una nueva especie por descubrir*
-
-</td>
-<td align="center" width="300">
-
-** Protección**  
-*La seguridad nunca debe subestimarse*
-
-</td>
-<td align="center" width="300">
-
-** Colaboración**  
-*El código abierto es nuestro ADN*
-
-</td>
-</tr>
-</table>
 
 ---
 
