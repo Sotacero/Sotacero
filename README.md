@@ -116,9 +116,9 @@
 
 <pre>
 SISTEMA:          ✅ Operativo
- COMUNICACIONES:    ✅ Estables  
-  CERCAS ELÉCTRICAS:  ✅ Funcionando
- NIVEL DE AMENAZA:  🟢 Controlado
+  COMUNICACIONES:    ✅ Estables  
+     CERCAS ELÉCTRICAS:  ✅ Funcionando
+  NIVEL DE AMENAZA:  🟢 Controlado
 </pre>
 
 ---
