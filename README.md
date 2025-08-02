@@ -110,6 +110,8 @@
 > *"Sí, sí, pero tu equipo de científicos estaba tan preocupado por si podían o no que no se detuvieron a pensar si debían."*  
 > **- Dr. Ian Malcolm**
 
+---
+
 ### *> Terminal Hammond - Acceso Autorizado <*
 
 **SISTEMA:** ✅ Operativo  
