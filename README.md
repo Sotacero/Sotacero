@@ -132,8 +132,7 @@
 ---
 
 <div align="center">
-  
-*Creado con ❤️ y mucho café por Sotacero*  
+   
 *© 2025 Sotacero Park - Todos los derechos reservados*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
