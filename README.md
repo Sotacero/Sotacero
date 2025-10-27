@@ -15,11 +15,20 @@
 
 ---
 
-## Estado Actual del Parque
-
-<div align="center" style="background:#0D1117;padding:8px;border-radius:12px">
-  <img src="./assets/metrics.svg" alt="Metrics de sotacero"/>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Explorador+Digital;Especialista+en+Ciberseguridad;%22La+vida+siempre+se+abre+camino%22)](https://git.io/typing-svg)
+  
 </div>
+
+...
+
+## Actividad Reciente en el Volcán
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotacero&theme=zenburn" width="100%"/>
+</div>
+
 
 
 
