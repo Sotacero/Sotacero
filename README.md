@@ -13,6 +13,27 @@
   
 </div>
 
+## Estado Actual del Parque
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sotacero&show_icons=true&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&icon_color=F85D03&text_color=FFF&border_radius=10&cache_seconds=7200" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sotacero&layout=compact&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10&cache_seconds=7200" height="150" alt="Top Lenguajes"/>
+</div>
+
+---
+
+## Expediciones Científicas
+
+<div align="center">
+  <a href="https://github.com/sotacero/KEV-Viewer">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sotacero&repo=KEV-Viewer&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10&cache_seconds=7200" alt="KEV-Viewer Pin"/>
+  </a>
+
+  <a href="https://github.com/sotacero/Pandita">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sotacero&repo=Pandita&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10&cache_seconds=7200" alt="Pandita Pin"/>
+  </a>
+</div>
+
 ---
 
 ## Arsenal Tecnológico
