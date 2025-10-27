@@ -15,14 +15,6 @@
 
 ---
 
-
-## Actividad Reciente en el Volcán
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotacero&theme=zenburn" width="100%"/>
-</div>
-
-
 ## Arsenal Tecnológico
 
 <div align="center">
