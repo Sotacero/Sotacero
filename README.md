@@ -18,21 +18,7 @@
 ## Estado Actual del Parque
 
 <div align="center" style="background:#0D1117;padding:8px;border-radius:12px">
-  <img src="./assets/stats.svg" height="150" alt="Stats de sotacero"/>
-  <img src="./assets/top-langs.svg" height="150" alt="Top lenguajes de sotacero"/>
-</div>
-
----
-
-## Expediciones Científicas
-
-<div align="center" style="background:#0D1117;padding:8px;border-radius:12px">
-  <a href="https://github.com/sotacero/KEV-Viewer">
-    <img src="./assets/pin-kev-viewer.svg" alt="KEV-Viewer"/>
-  </a>
-  <a href="https://github.com/sotacero/Pandita">
-    <img src="./assets/pin-pandita.svg" alt="Pandita"/>
-  </a>
+  <img src="./assets/metrics.svg" alt="Metrics de sotacero"/>
 </div>
 
 
