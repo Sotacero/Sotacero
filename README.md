@@ -17,22 +17,21 @@
 
 ## Estado Actual del Parque
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sotacero&show_icons=true&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&icon_color=F85D03&text_color=FFF&border_radius=10" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sotacero&layout=compact&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10" height="150"/>
+<div align="center" style="background:#0D1117;padding:8px;border-radius:12px">
+  <img src="./assets/stats.svg" height="150" alt="Stats de sotacero"/>
+  <img src="./assets/top-langs.svg" height="150" alt="Top lenguajes de sotacero"/>
 </div>
 
 ---
 
 ## Expediciones Científicas
 
-<div align="center">
+<div align="center" style="background:#0D1117;padding:8px;border-radius:12px">
   <a href="https://github.com/sotacero/KEV-Viewer">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sotacero&repo=KEV-Viewer&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10"/>
+    <img src="./assets/pin-kev-viewer.svg" alt="KEV-Viewer"/>
   </a>
-  
   <a href="https://github.com/sotacero/Pandita">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sotacero&repo=Pandita&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10"/>
+    <img src="./assets/pin-pandita.svg" alt="Pandita"/>
   </a>
 </div>
 
