@@ -16,23 +16,46 @@
 ## Estado Actual del Parque
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sotacero&show_icons=true&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&icon_color=F85D03&text_color=FFF&border_radius=10&cache_seconds=7200" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sotacero&layout=compact&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10&cache_seconds=7200" height="150" alt="Top Lenguajes"/>
+  <!-- Stats -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotacero&theme=zenburn"
+    height="150"
+    alt="GitHub Stats de sotacero"
+  />
+  <!-- Top lenguajes -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sotacero&theme=zenburn"
+    height="150"
+    alt="Top lenguajes de sotacero"
+  />
 </div>
 
 ---
 
 ## Expediciones Científicas
 
-<div align="center">
-  <a href="https://github.com/sotacero/KEV-Viewer">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sotacero&repo=KEV-Viewer&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10&cache_seconds=7200" alt="KEV-Viewer Pin"/>
+<div align="center" style="background:#0D1117;padding:8px;border-radius:12px">
+  <!-- KEV-Viewer (pin alternativo con badges estables) -->
+  <a href="https://github.com/sotacero/KEV-Viewer" style="text-decoration:none;margin:6px 10px;display:inline-block;">
+    <img alt="Stars"
+         src="https://img.shields.io/github/stars/sotacero/KEV-Viewer?style=for-the-badge&label=Stars&logo=github&logoColor=white&color=F85D03&labelColor=0D1117">
+    <img alt="Forks"
+         src="https://img.shields.io/github/forks/sotacero/KEV-Viewer?style=for-the-badge&label=Forks&logo=github&logoColor=white&color=F85D03&labelColor=0D1117">
+    <img alt="Issues"
+         src="https://img.shields.io/github/issues/sotacero/KEV-Viewer?style=for-the-badge&label=Issues&logo=github&logoColor=white&color=F85D03&labelColor=0D1117">
   </a>
 
-  <a href="https://github.com/sotacero/Pandita">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sotacero&repo=Pandita&theme=jurassic&hide_border=true&bg_color=0D1117&title_color=F85D03&text_color=FFF&border_radius=10&cache_seconds=7200" alt="Pandita Pin"/>
+  <!-- Pandita -->
+  <a href="https://github.com/sotacero/Pandita" style="text-decoration:none;margin:6px 10px;display:inline-block;">
+    <img alt="Stars"
+         src="https://img.shields.io/github/stars/sotacero/Pandita?style=for-the-badge&label=Stars&logo=github&logoColor=white&color=F85D03&labelColor=0D1117">
+    <img alt="Forks"
+         src="https://img.shields.io/github/forks/sotacero/Pandita?style=for-the-badge&label=Forks&logo=github&logoColor=white&color=F85D03&labelColor=0D1117">
+    <img alt="Issues"
+         src="https://img.shields.io/github/issues/sotacero/Pandita?style=for-the-badge&label=Issues&logo=github&logoColor=white&color=F85D03&labelColor=0D1117">
   </a>
 </div>
+
 
 ---
 
