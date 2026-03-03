@@ -104,7 +104,6 @@
 
 ###  Métricas del Sistema
 ![Profile Views](https://komarev.com/ghpvc/?username=sotacero&label=Visitantes%20del%20Parque&color=F85D03&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/sotacero?label=Exploradores&style=for-the-badge&color=F85D03)
 
 </div>
 
