@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-Soy **Luis Miguel**, especialista en ciberseguridad. Trabajo en seguridad de aplicaciones, gestión de vulnerabilidades e integración de controles en el ciclo de desarrollo.
+Soy **Luismi**, especialista en ciberseguridad. Trabajo en seguridad de aplicaciones, gestión de vulnerabilidades e integración de controles en el ciclo de desarrollo.
 
 Me gusta construir herramientas que resuelvan problemas concretos: automatizar análisis, conectar fuentes de información y convertir hallazgos en algo que se pueda investigar y corregir. Aquí comparto proyectos, experimentos y parte de ese trabajo.
 
