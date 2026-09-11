@@ -1,179 +1,101 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/d8/8f/42/d88f42a1e406ae614458d3f8fe207006.gif" width="400" alt="T-Rex Rugiendo"/>
-  
-</div>
+<p align="center">
+  <img src="./assets/sotacero-park.svg" width="100%" alt="Sotacero Park. Seguridad por diseño. Curiosidad por naturaleza." />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SOTACERO%20PARK&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Sistema%20de%20Seguridad%20Digital%20Activado&descAlignY=75&descAlign=62" width="100%"/>
-</div>
+<h1 align="center">Luis Miguel Calderón · Sotacero</h1>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Explorador+Digital;Especialista+en+Ciberseguridad;%22La+vida+siempre+se+abre+camino%22)](https://git.io/typing-svg)
-  
-</div>
+<p align="center">
+  <strong>AppSec · ASPM · DevSecOps · Ciberinteligencia</strong>
+</p>
 
-## Estado Actual del Parque
+<p align="center">
+  <a href="https://linkedin.com/in/luismicalderon">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:lmcalderon_job@outlook.es">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.lincesec.com">LINCESEC</a>
+</p>
 
-<div align="center">
-  <!-- Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotacero&theme=zenburn" height="150" alt="GitHub Stats de sotacero"/>
-  <!-- Top lenguajes -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sotacero&theme=zenburn" height="150" alt="Top lenguajes de sotacero"/>
-</div>
+## Sobre mí
 
----
+Soy **Luis Miguel**, especialista en ciberseguridad. Trabajo en seguridad de aplicaciones, gestión de vulnerabilidades e integración de controles en el ciclo de desarrollo.
 
-## Expediciones Científicas
+Me gusta construir herramientas que resuelvan problemas concretos: automatizar análisis, conectar fuentes de información y convertir hallazgos en algo que se pueda investigar y corregir. Aquí comparto proyectos, experimentos y parte de ese trabajo.
 
-<div align="center">
+> La seguridad no consiste solo en levantar cercas: también hay que entender qué ocurre a ambos lados.
 
-  <!-- KEV-Viewer -->
-  <a href="https://github.com/sotacero/KEV-Viewer" target="_blank">
-    <img
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sotacero&repo=KEV-Viewer&theme=react&bg_color=0D1117&title_color=F85D03&text_color=FFFFFF&icon_color=F85D03&hide_border=true"
-      alt="KEV-Viewer"
-      height="150"
-    />
-  </a>
+## Áreas de trabajo
 
-  <!-- Pandita -->
-  <a href="https://github.com/sotacero/Pandita" target="_blank">
-    <img
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sotacero&repo=Pandita&theme=react&bg_color=0D1117&title_color=F85D03&text_color=FFFFFF&icon_color=F85D03&hide_border=true"
-      alt="Pandita"
-      height="150"
-    />
-  </a>
+| Área | En qué me centro |
+| :--- | :--- |
+| **AppSec y ASPM** | Evaluación y priorización de vulnerabilidades, contexto de aplicación y seguimiento de la remediación. |
+| **DevSecOps y automatización** | Integración de seguridad en CI/CD, controles en pipelines y automatización mediante scripts y APIs. |
+| **Ciberinteligencia y DRP** | OSINT, protección de marca, exposición externa y análisis de posibles filtraciones y amenazas. |
 
-</div>
+## Proyectos · Expediciones en marcha
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://www.lincesec.com">LINCESEC</a></h3>
+      <p><strong>Protección de riesgos digitales</strong></p>
+      <p>Trabajo en el desarrollo de una plataforma de monitorización de marca, exposición externa y ciberinteligencia, con motores de búsqueda y flujos de análisis automatizados.</p>
+      <p><code>DRP</code> <code>OSINT</code> <code>Automatización</code></p>
+      <p><a href="https://www.lincesec.com">Visitar la web →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sotacero/KEV-Viewer">KEV-Viewer</a></h3>
+      <p><strong>Vulnerabilidades explotadas</strong></p>
+      <p>Visor del catálogo KEV de CISA con búsqueda por CVE y filtrado por vinculación con campañas de ransomware. Una forma directa de consultar y explorar sus registros.</p>
+      <p><code>Python</code> <code>JavaScript</code> <code>CISA KEV</code></p>
+      <p><a href="https://github.com/Sotacero/KEV-Viewer">Explorar el repositorio →</a></p>
+    </td>
+  </tr>
+</table>
 
+### [Pandita](https://github.com/Sotacero/Pandita)
 
----
+Aplicación de escritorio en **Python y Tkinter** para filtrar registros de tarjetas por BIN en ficheros de texto y eliminar resultados duplicados.
 
-## Arsenal Tecnológico
+`Python` `Tkinter` `Procesamiento de ficheros`
 
-<div align="center">
+## Stack · Herramientas de campo
 
-### Laboratorio Principal
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Desarrollo e integraciones**  
+`Python` `JavaScript` `HTML` `CSS` `REST APIs` `GraphQL`
 
-### Sistemas de Seguridad
-![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-FF6B35?style=for-the-badge&logo=security&logoColor=white)
-![Vulnerability Assessment](https://img.shields.io/badge/Análisis%20de%20Vulnerabilidades-DC143C?style=for-the-badge&logo=shield&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-4B0082?style=for-the-badge&logo=security&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=magnifying-glass&logoColor=white)
+**Automatización y entorno**  
+`Azure DevOps` `Git` `Linux` `n8n`
 
-### Herramientas de Campo
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB6FF?style=for-the-badge&logo=perplexity&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
-
-### Laboratorio de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-</div>
-
-
----
-
-## Actividad Reciente en el Volcán
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sotacero&bg_color=0D1117&color=F85D03&line=F85D03&point=FFFFFF&area=true&hide_border=true&theme=react-dark" width="100%"/>
-</div>
-
----
-
-## Centro de Control
-
-<div align="center">
-
-
-###  Métricas del Sistema
-![Profile Views](https://komarev.com/ghpvc/?username=sotacero&label=Visitantes%20del%20Parque&color=F85D03&style=for-the-badge)
-
-</div>
-
----
-
-##  Zona de Evacuación (Contacto)
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luismicalderon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lmcalderon_job@outlook.es)
-[![Website](https://img.shields.io/badge/Sitio%20Web-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.lincesec.com)
-
-</div>
-
----
-
-##  Advertencia del Dr. Malcolm
-
-<div align="center">
-  
-<img src="https://media.giphy.com/media/11FiDF2fuOujPG/giphy.gif" width="400"/>
-
-> *"Sí, sí, pero tu equipo de científicos estaba tan preocupado por si podían o no que no se detuvieron a pensar si debían."*  
-> **- Dr. Ian Malcolm**
-
----
-
-### *> Terminal Hammond - Acceso Autorizado <*
-
-<pre>
-> SISTEMA:           [✅] Operativo
- > COMUNICACIONES:    [✅] Estables  
-  > CERCAS ELÉCTRICAS: [✅] Funcionando
- > NIVEL DE AMENAZA:  [🟢] Controlado
-</pre>
-
----
-
-<div align="center">
-   
-*© 2025 Sotacero Park - Todos los derechos reservados*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
-
-<!-- Easter Egg: Konami Code -->
-<!-- ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️ -->
+**Datos**  
+`MySQL` `SQLite`
 
 ---
 
 <details>
-<summary>🥚 Easter Egg - Expediente Nedry</summary>
+  <summary><strong>🦖 Sala de control · Terminal Hammond</strong></summary>
 
-```ascii
-    ___________________
-   |  ACCESO DENEGADO  |
-   |___________________|
-   |                   |
-   | "Ah ah ah, no     |
-   | dijiste la        |
-   | palabra mágica"   |
-   |                   |
-   | - Dennis Nedry    |
-   |___________________|
+<br />
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d8/8f/42/d88f42a1e406ae614458d3f8fe207006.gif" width="320" alt="T-Rex rugiendo: el guiño original de Sotacero Park." />
+</p>
+
+```text
+hammond@sotacero-park:~$ ./check-perimeter
+
+[OK] Laboratorio preparado
+[OK] Curiosidad intacta
+[!!] No confiar toda la seguridad a las cercas
+
+> access main security grid
+> Ah, ah, ah... no has dicho la palabra mágica.
 ```
 
-**Pista:** La palabra mágica rima con "por favor" 😉
+> «La vida siempre se abre camino».
+
+Las vulnerabilidades también. Mejor encontrarlas antes.
 
 </details>
 
-</div>
+<!-- Easter egg: ↑ ↑ ↓ ↓ ← → ← → B A -->
