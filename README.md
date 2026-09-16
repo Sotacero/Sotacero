@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="74%" valign="top">
-      <p>Soy <strong>Luis Miguel Calderón</strong>, conocido como <strong>Sotacero</strong>. Trabajo en seguridad de aplicaciones, gestión de vulnerabilidades y automatización de controles. Me apasiona investigar, construir herramientas, conectar ideas y convertir hallazgos en mejoras reales.</p>
+      <p>Soy <strong>Luismi</strong>. Trabajo en seguridad de aplicaciones, gestión de vulnerabilidades y automatización de controles. Me apasiona investigar, construir herramientas, conectar ideas y convertir hallazgos en mejoras reales.</p>
       <p>Este es mi laboratorio personal: un espacio para compartir proyectos, notas, herramientas y experimentos relacionados con ciberseguridad, siempre con un enfoque práctico y espíritu curioso.</p>
       <blockquote>
         <p><strong>«La vida siempre se abre camino».</strong><br />— Ian Malcolm</p>
