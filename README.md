@@ -63,8 +63,6 @@
   <img src="./assets/stack/owasp.png" width="63" alt="OWASP" />
   <img src="./assets/stack/vscode.png" width="63" alt="VS Code" />
   <img src="./assets/stack/terraform.png" width="63" alt="Terraform" />
-  <img src="./assets/stack/grafana.png" width="63" alt="Grafana" />
-  <img src="./assets/stack/prometheus.png" width="63" alt="Prometheus" />
   <img src="./assets/stack/elastic.png" width="63" alt="Elastic" />
 </p>
 
