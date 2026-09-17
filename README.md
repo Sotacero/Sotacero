@@ -100,6 +100,6 @@
   <a href="https://www.lincesec.com">LINCESEC</a>
 </p>
 
-<p align="center"><sub>GRACIAS POR PASAR POR AQUÍ</sub><br /><sub>BUILDER · BREAKER · LEARNER · SOTACERO</sub></p>
+<p align="center"><sub>GRACIAS POR PASAR POR AQUÍ</sub>
 
 <!-- ↑ ↑ ↓ ↓ ← → ← → B A -->
