@@ -8,7 +8,7 @@
   <tr>
     <td width="74%" valign="top">
       <p>Soy <strong>Luismi</strong>. Trabajo en seguridad de aplicaciones, gestión de vulnerabilidades y automatización de controles (entre otras muchas cosas).</p>
-      <p>Este es mi laboratorio personal: un espacio para compartir proyectos, notas, herramientas y experimentos relacionados con ciberseguridad, siempre con un enfoque práctico y espíritu curioso.</p>
+      <p>Este es mi laboratorio personal: un espacio para compartir proyectos, notas, herramientas y experimentos relacionados con ciberseguridad.</p>
       <blockquote>
         <p><strong>«La vida siempre se abre camino».</strong><br />— Ian Malcolm</p>
       </blockquote>
